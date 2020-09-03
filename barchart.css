@@ -1,0 +1,13 @@
+#bars {
+  display: flex;
+}
+
+.bar {
+  width: 40px;
+  height: 32px;
+  margin: 1px;
+  margin-top: 10vh;
+  background-color: #734080b8;
+  align-self: flex-end;
+  padding-bottom: 8vh;
+}
